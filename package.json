@@ -10,6 +10,7 @@
   "author": "john <jrw@mit.edu>",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "unit": "0.0.1-alpha"
   }
 }
