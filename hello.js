@@ -14,8 +14,6 @@ app.listen(3000);
 // do a test 
 var str = 'Hello, world!';
 
-test.string(str).startsWith('Hello');
-
 if (test.string(str).startsWith('Hello')) {
   console.log('Passed');
 }

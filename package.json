@@ -11,6 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.4",
-    "unit": "0.0.1-alpha"
+    "unit.js": "^2.0.0"
   }
 }
